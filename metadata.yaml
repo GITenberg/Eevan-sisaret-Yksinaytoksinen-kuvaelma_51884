@@ -1,0 +1,25 @@
+_repo: Eevan-sisaret-Yksinaytoksinen-kuvaelma_51884
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bäckström, Edvard
+    alias: Backstrom, Edvard
+    birthdate: 1841
+    deathdate: 1886
+    gutenberg_agent_id: '46590'
+    url: http://www.gutenberg.org/2009/agents/46590
+description: ''
+gutenberg_issued: '2016-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51884'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish drama -- Translations into Finnish'
+- GITenberg
+title: 'Eevan sisaret: Yksinäytöksinen kuvaelma'
+url: http://www.gutenberg.org/ebooks/51884
